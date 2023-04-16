@@ -19,6 +19,9 @@ CrossOver should now run like normal
 
 <br>
 
+<br>
+if your CrossOver is not version 22.1.1, ONLY replace file "wine64-preloader", not the ohter two files
+
 # Disclaimer
 While the provided fix gets CrossOver functioning again modifying CrossOver isn't supported by CodeWeavers.
 
